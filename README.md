@@ -1,12 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 # Next.js Modern Blog Template
-
-<img width="1920" height="1518" alt="screencapture-localhost-3000-2025-08-04-18_26_31" src="https://github.com/user-attachments/assets/60eaa139-6a1d-42da-b7fb-107f00e4d1b6" />
-
-
 A **modern and responsive blog template** built with [Next.js 15](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [TypeScript](https://www.typescriptlang.org/).  
 This template is designed for performance, SEO, and developer experience. It’s perfect for blogs, portfolios, or content-driven websites.
+
+<img width="1920" height="1518" alt="screencapture-localhost-3000-2025-08-04-18_26_31" src="https://github.com/user-attachments/assets/60eaa139-6a1d-42da-b7fb-107f00e4d1b6" />
 
 ---
 
